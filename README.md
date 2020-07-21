@@ -1,6 +1,6 @@
 # React Employee Directory
 
-This App Takes data from an API and processes it with filtering and sorting - in real time for the user. Instead of using pop drilling I decided to use reacts content providing state to components without using class components.
+This App takes data from an API and processes it with filtering and sorting (in real time for the user). Instead of using pop drilling I decided to use react's content providing state to components without using class components.
 
 The user is able to:
 
