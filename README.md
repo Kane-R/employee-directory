@@ -9,7 +9,7 @@ The user is able to:
 
   * Filter the users by at least one property which is also their name.
 
-Live: https://react-employees-directory.herokuapp.com/
+Live: https://kanes-employee-directory.herokuapp.com/
 
 
 ![markdown-preview-image](public/img/markdown-preview-image.png)
